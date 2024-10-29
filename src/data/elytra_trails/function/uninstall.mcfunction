@@ -1,0 +1,1 @@
+scoreboard objectives remove toggle_elytra_trails
